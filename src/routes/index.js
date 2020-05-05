@@ -6,6 +6,7 @@ import {
 } from '../view'
 
 // list 修改后的代码
+// index 修改后的代码
 export const mainRoute = [
     {
         pathname:'/index',
