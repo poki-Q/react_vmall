@@ -4,7 +4,8 @@ export default class loading extends Component {
     render() {
         return (
             <div>
-                loading....poki
+                loading....poki..
+                loading....poki..dev
             </div>
         )
     }
