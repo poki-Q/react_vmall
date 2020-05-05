@@ -4,7 +4,7 @@ export default class loading extends Component {
     render() {
         return (
             <div>
-                list..1..2
+                list..1..2..3
                 index..1...2...3
             </div>
         )
