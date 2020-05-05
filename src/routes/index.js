@@ -5,6 +5,7 @@ import {
     NotFound
 } from '../view'
 
+// index 修改后的代码
 export const mainRoute = [
     {
         pathname:'/index',
