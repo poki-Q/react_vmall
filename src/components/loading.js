@@ -5,6 +5,8 @@ export default class loading extends Component {
         return (
             <div>
                 loading....poki...index....
+                loading....poki..
+                loading....poki..dev
             </div>
         )
     }
