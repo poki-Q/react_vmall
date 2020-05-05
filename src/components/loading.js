@@ -5,7 +5,7 @@ export default class loading extends Component {
         return (
             <div>
                 list..1
-                index..1...2
+                index..1...2...3
             </div>
         )
     }
