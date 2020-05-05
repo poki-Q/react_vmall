@@ -6,6 +6,7 @@ export default class loading extends Component {
             <div>
                 list..1..2..3...4
                 index..1...2...3
+                index create feature
             </div>
         )
     }
